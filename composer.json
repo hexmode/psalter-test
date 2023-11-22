@@ -1,0 +1,15 @@
+{
+    "name": "hexmode/psaltertest",
+    "description": "Test",
+    "autoload": {
+        "psr-4": {
+            "Hexmode\\Psaltertest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mark A. Hershberger",
+            "email": "mah@nichework.com"
+        }
+    ]
+}
