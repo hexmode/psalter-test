@@ -2,5 +2,8 @@
 
 namespace Hexmode\Psaltertest;
 
-clas Test {
+class Test {
+    function link( $a ) {
+        
+    }
 }
